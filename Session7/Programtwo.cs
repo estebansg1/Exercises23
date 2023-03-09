@@ -2,9 +2,9 @@ using System;
 
 namespace OddNumbers
 {
-    class Program
+    class Program2
     {
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
             for (int i = 1; i <= 99; i += 2)
             {
