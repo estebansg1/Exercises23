@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Esteban\\OneDrive\\Documents\\code\\Exercises23\\Session7\\Session7.csproj": {}
+    "C:\\Users\\Esteban\\OneDrive\\Documents\\code\\Exercises23\\Session7\\Exercise2\\Exercise2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Esteban\\OneDrive\\Documents\\code\\Exercises23\\Session7\\Session7.csproj": {
+    "C:\\Users\\Esteban\\OneDrive\\Documents\\code\\Exercises23\\Session7\\Exercise2\\Exercise2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Esteban\\OneDrive\\Documents\\code\\Exercises23\\Session7\\Session7.csproj",
-        "projectName": "Session7",
-        "projectPath": "C:\\Users\\Esteban\\OneDrive\\Documents\\code\\Exercises23\\Session7\\Session7.csproj",
+        "projectUniqueName": "C:\\Users\\Esteban\\OneDrive\\Documents\\code\\Exercises23\\Session7\\Exercise2\\Exercise2.csproj",
+        "projectName": "Exercise2",
+        "projectPath": "C:\\Users\\Esteban\\OneDrive\\Documents\\code\\Exercises23\\Session7\\Exercise2\\Exercise2.csproj",
         "packagesPath": "C:\\Users\\Esteban\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Esteban\\OneDrive\\Documents\\code\\Exercises23\\Session7\\obj\\",
+        "outputPath": "C:\\Users\\Esteban\\OneDrive\\Documents\\code\\Exercises23\\Session7\\Exercise2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Esteban\\AppData\\Roaming\\NuGet\\NuGet.Config"
