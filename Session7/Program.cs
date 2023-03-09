@@ -6,10 +6,9 @@ namespace AbsoluteDifference
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter two numbers: ");
-            double num1 = double.Parse(Console.ReadLine());
-            double num2 = double.Parse(Console.ReadLine());
-
+            Console.WriteLine("Please enter two numbers:");
+            double num1;
+            double num2; 
             double difference = Math.Abs(num1 - num2);
 
             if (num1 > num2)
