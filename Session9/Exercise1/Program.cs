@@ -3,11 +3,12 @@
 class House
 {
     private int area;
-    private Door _door;
+    private Door door;
 
     public House(int area)
     {
         this.area = area;
+        door = new Door();
     }
 
     public int Area
@@ -18,7 +19,7 @@ class House
 
     public Door GetDoor()
     {
-        return _door;
+        return door;
     }
 
     public void ShowData()
