@@ -16,7 +16,6 @@ namespace AbsoluteDifference
             {
                 Console.WriteLine("The absolute difference is {0} and double of the absolute difference is {1}", difference, 2 * difference);
                 double doubleDifference = 2 * difference;
-                Console.WriteLine("The double of the absolute difference is {0}", doubleDifference);
             }
             else
             {
