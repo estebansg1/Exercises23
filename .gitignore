@@ -1,0 +1,27 @@
+# Visual Studio files
+.vs/
+bin/
+obj/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+
+# NuGet Packages
+*.nupkg
+packages/
+
+# MSTest Test Results
+TestResults/
+
+# Other files
+[Dd]esktop.ini
+*.log
+*.bak
+*.cache
+*.csproj.user
+*.resharper
+[Tt]humbs.db
