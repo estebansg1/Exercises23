@@ -1,5 +1,4 @@
-﻿
-List<Car> cars = CarCollection.GetAllCars();
+﻿List<Car> cars = CarCollection.GetAllCars();
 
 foreach (Car car in cars)
 {

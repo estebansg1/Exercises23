@@ -4,7 +4,6 @@ public static class CarCollection
     {
         List<Car> cars = new List<Car>();
 
-        // Mock data
         cars.Add(new Car { Brand = "Toyota", Model = "Corolla", Year = 2018, Type = "Standard", Kilometers = 30000 });
         cars.Add(new Car { Brand = "Honda", Model = "Civic", Year = 2020, Type = "Manual", Kilometers = 15000 });
         cars.Add(new Car { Brand = "Ford", Model = "Mustang", Year = 2015, Type = "Standard", Kilometers = 50000 });
